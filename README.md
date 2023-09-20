@@ -40,7 +40,11 @@ These instructions will guide you through setting up and running the project on 
    ```bash
    celery -A tasks:celery worker --loglevel=INFO
    ```
-7. Open a new terminal window and run the following command to start the FastAPI application:
+7. create a db:
+   ```bash
+   python3 db.py
+   ```
+8. Open a new terminal window and run the following command to start the FastAPI application:
 
    ```bash
    python3 main.py
