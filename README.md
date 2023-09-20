@@ -33,7 +33,6 @@ These instructions will guide you through setting up and running the project on 
    ```
 5. Navigate to the api folder:
    ```bash
-   Copy code
    cd api
    ```
 6. Start the Celery worker with the following command (log level set to INFO):
