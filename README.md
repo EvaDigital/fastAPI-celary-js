@@ -36,13 +36,13 @@ These instructions will guide you through setting up and running the project on 
    ```bash
    cd api
    ```
-6. Start the Celery worker with the following command (log level set to INFO):
-   ```bash
-   celery -A tasks:celery worker --loglevel=INFO
-   ```
-7. Create a db:
+6. Create a db:
    ```bash
    python3 db.py
+   ```
+7. Start the Celery worker with the following command (log level set to INFO):
+   ```bash
+   celery -A tasks:celery worker --loglevel=INFO
    ```
 8. Open a new terminal window in the fastAPI-celary-js directory and run the following command to start the FastAPI application:
 
