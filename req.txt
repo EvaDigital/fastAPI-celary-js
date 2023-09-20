@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+celery[redis]
+jinja2
+httpx
