@@ -9,6 +9,7 @@ These instructions will guide you through setting up and running the project on 
 - Git
 - Python 3.x
 - Virtual environment (recommended)
+- - Redis installed and running
 
 ### Installation
 
