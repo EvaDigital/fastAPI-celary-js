@@ -34,7 +34,7 @@ These instructions will guide you through setting up and running the project on 
    ```
 5. Create a db:
    ```bash
-   python3 db.py
+   python3   api/db.py
    ```
 6. Run the following command to start the FastAPI application:
 
