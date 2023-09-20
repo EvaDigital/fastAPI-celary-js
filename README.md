@@ -18,7 +18,7 @@ These instructions will guide you through setting up and running the project on 
    https://github.com/EvaDigital/fastAPI-celary-js.git)https://github.com/EvaDigital/fastAPI-celary-js.git
    ```
 2. **Navigate to the project directory
-```bash
+   ```bash
    cd fastAPI-celary-js
    ```
 3. **Create and activate a virtual environment (recommended):
@@ -28,9 +28,9 @@ These instructions will guide you through setting up and running the project on 
    ```
 4. Install project dependencies from the req.txt file:
 
-```bash
-pip install -r req.txt
-```
+   ```bash
+   pip install -r req.txt
+   ```
 5. Navigate to the api folder:
    ```bash
    Copy code
